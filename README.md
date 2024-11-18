@@ -251,12 +251,16 @@ User Stories were created based on the above Epics:
     - C. As a website owner, I would like the ability to edit
     previous posts, so that I can amend incorrect news quickly
     without hassle.
-    
+
     - D. As a website owner, I would like the ability to remove/hide
     previous posts, so that I can stop users from seeing news
     that no longer applies.
 
 ### Wireframes
+
+A wireframe was created to layout the home screen for the website on computer and mobile screens.
+
+[Wireframe 1](/media/doc-media/pp5-wireframe1.png)
 
 ## Features
 
