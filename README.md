@@ -268,6 +268,21 @@ A wireframe was created to layout the home screen for the website on computer an
 
 ### Python
 
+The following python packages were used:
+   -  asgiref==3.8.1
+   -  dj-database-url==0.5.0
+   -  Django==5.1.3
+   -  django-allauth==65.2.0
+   -  gunicorn==23.0.0
+   -  packaging==24.2
+   -  psycopg2==2.9.10
+   -  pytz==2024.2
+   -  setuptools==75.5.0
+   -  sqlparse==0.5.2
+   -  tzdata==2024.2
+
+This list can also be found in the 'requirements.txt' file in the repo.
+
 ### Django
 
 ### Heroku
