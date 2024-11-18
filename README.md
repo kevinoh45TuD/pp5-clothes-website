@@ -282,6 +282,14 @@ Code Insitute template was used for creation of repository of this site. [Templa
 
 ### Setting Up Repository
 
+I took these steps to setup my Github repository:
+- Open the link to the Code Institute template mentioned above.
+- At the top right corner click the button 'Use this template'.
+- Click first option 'Create a new repository.
+- Give the repository a relevant name and description.
+- Make sure the repository remains public.
+- At the bottom right click 'Create repository'.
+
 ### Clone Repository
 
 ### Fork Repository
