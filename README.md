@@ -278,6 +278,8 @@ A wireframe was created to layout the home screen for the website on computer an
 
 ## Deployment
 
+Code Insitute template was used for creation of repository of this site. [Template](https://github.com/Code-Institute-Org/ci-full-template)
+
 ### Setting Up Repository
 
 ### Clone Repository
@@ -288,4 +290,10 @@ A wireframe was created to layout the home screen for the website on computer an
 
 ### Code Institute
 
+- Code Institute template used for repository [Template](https://github.com/Code-Institute-Org/ci-full-template)
+
+- Code Institute learning modules used to learn different aspects used to work on this project [Code Institute](https://codeinstitute.net/ie/)
+
 ### Other
+
+- An article on GitHub was used to help with creating this README doc [Article](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
