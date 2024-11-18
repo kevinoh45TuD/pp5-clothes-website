@@ -35,6 +35,15 @@ Below I will outline key aspects of the project and its creation.
     - Other
 
 ## UX
+
+### Website Visuals
+
+### Color
+
+### Font
+
+### Imagery
+
 ### Epics
 
 10 Epics were created for this project, these were expanded into user stories. The details of this can be found on the related kanban board [Board](https://github.com/users/kevinoh45TuD/projects/2)
@@ -264,6 +273,22 @@ A wireframe was created to layout the home screen for the website on computer an
 
 ## Features
 
+Based on the User Stories certain features of the website are created and implemented.
+
+### Home
+
+### Account Registration
+
+### User Profile
+
+### Admin Screen
+
+### Product Section
+
+### Cart
+
+### News
+
 ## Technologies Used
 
 ### Python
@@ -309,6 +334,8 @@ This list can also be found in the 'requirements.txt' file in the repo.
 - VS Code was used to develop the code for this site.
 - GitHub was used for version control. [Github](https://github.com)
 - Balsamiq was used to create wireframes.
+
+## Testing
 
 ## Deployment
 
