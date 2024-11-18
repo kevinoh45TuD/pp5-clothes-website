@@ -269,6 +269,7 @@ A wireframe was created to layout the home screen for the website on computer an
 ### Python
 
 The following python packages were used:
+
    -  asgiref==3.8.1
    -  dj-database-url==0.5.0
    -  Django==5.1.3
@@ -285,11 +286,29 @@ This list can also be found in the 'requirements.txt' file in the repo.
 
 ### Django
 
+- Django was used as the main framework for this project.
+
 ### Heroku
+
+- Heroku was used to deploy this website online. [Heroku](https://www.heroku.com)
 
 ### HTML
 
+- Html was used as the base language for the site templates.
+
+### CSS
+
+- CSS was used to style the pages for this website.
+
+### JavaScript
+
+- JS was used for any functionality for the website.
+
 ### Packages
+
+- VS Code was used to develop the code for this site.
+- GitHub was used for version control. [Github](https://github.com)
+- Balsamiq was used to create wireframes.
 
 ## Deployment
 
