@@ -409,6 +409,7 @@ Steps are based on GitHub documentation related to forking repositories.
 - Code Institute template used for repository [Template](https://github.com/Code-Institute-Org/ci-full-template)
 
 - Code Institute learning modules used to learn different aspects used to work on this project [Code Institute](https://codeinstitute.net/ie/)
+- 'Boutique Ado' was a main resource, from the above learning modules mentioned, used to get the project running!
 
 ### Other
 
