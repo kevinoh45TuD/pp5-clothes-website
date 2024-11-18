@@ -48,6 +48,8 @@ Below I will outline key aspects of the project and its creation.
 
 ### Website Visuals
 
+Below will outline various design choices related to how the website visually looks.
+
 #### Color
 
 #### Font
@@ -344,8 +346,11 @@ This list can also be found in the 'requirements.txt' file in the repo.
 - VS Code was used to develop the code for this site.
 - GitHub was used for version control. [Github](https://github.com)
 - Balsamiq was used to create wireframes.
+- Openart.ai was used to create the initial background used for the home screen. [OpenArt](https://openart.ai/home)
 
 ## Testing
+
+Below will have an outline of the types of testing done to identify any bugs within the website.
 
 ### Manual Testing
 
