@@ -13,10 +13,20 @@ Below I will outline key aspects of the project and its creation.
 ## Table of Contents
 
 1. [UX](#ux)
+    - Website Visuals
+        - Color
+        - Font
+        - Imagery
     - Epics
     - User Stories
 2. [Features](#features)
-    - Temp
+    - Home
+    - Acccount Registration
+    - User Profile
+    - Admin Screen
+    - Product Section
+    - Cart
+    - News
 3. [Technologies Used](#technologies-used)
     - Python
     - Django
@@ -24,7 +34,7 @@ Below I will outline key aspects of the project and its creation.
     - HTML
     - Packages
 4. [Testing](#testing-1)
-    - 
+    - Manual Testing
 5. [Deployment](#deployment)
     - Setting Up Repository
     - Deploying on Heroku
@@ -38,11 +48,11 @@ Below I will outline key aspects of the project and its creation.
 
 ### Website Visuals
 
-### Color
+#### Color
 
-### Font
+#### Font
 
-### Imagery
+#### Imagery
 
 ### Epics
 
@@ -336,6 +346,8 @@ This list can also be found in the 'requirements.txt' file in the repo.
 - Balsamiq was used to create wireframes.
 
 ## Testing
+
+### Manual Testing
 
 ## Deployment
 
