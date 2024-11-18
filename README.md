@@ -292,6 +292,22 @@ I took these steps to setup my Github repository:
 
 ### Clone Repository
 
+Here I will outline the steps to clone a repository on GitHub.
+This allows you to save a local copy.
+
+Steps:
+- Navigate to the GitHub page for the desired repository.
+- Click on 'Code'
+- Copy the link provided under HTTPS.
+- Open Git Bash.
+- Change the current working directory to the location where you want the cloned directory.
+- Type 'git clone ' along with the copied link.
+- Press Enter to create cloned repository.
+
+Steps are based on GitHub documentation related to cloning repositories.
+
+[GitHub Docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository?tool=webui)
+
 ### Fork Repository
 
 ## Credits
