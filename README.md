@@ -411,6 +411,8 @@ Steps are based on GitHub documentation related to forking repositories.
 - Code Institute learning modules used to learn different aspects used to work on this project [Code Institute](https://codeinstitute.net/ie/)
 - 'Boutique Ado' was a main resource, from the above learning modules mentioned, used to get the project running!
 
+- Most of the code from the Code Institute learning resources were used to make different key aspects of the project functional.
+
 ### Other
 
 - An article on GitHub was used to help with creating this README doc [Article](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
