@@ -7,7 +7,7 @@
         "name": "Arizona Original Bootcut Jeans",
         "description": "Bootcut jeans in our just-right original fit are comfortable and look great too.  5-pocket style sits below waist straight fit through seat and thigh bootcut leg 18\" leg opening cotton washable imported extended sizes and washes available online only",
         "price": 53.99,
-        "category": 6,
+        "category": 3,
         "rating": 4.6,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0709201205510679M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0709201205510679M.jpg"
@@ -21,7 +21,7 @@
         "name": "The Foundry Supply Co. Solid Pocket TeeBig & Tall",
         "description": "Get a better basic tee in a size that truly fits with this pocket t-shirt from The Foundry Supply Co.  short-sleeve, crew-neck tee left chest pocket 100% cotton washable imported",
         "price": 30.99,
-        "category": 9,
+        "category": 1,
         "rating": 4.7,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0624201520422666C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0624201520422666C.jpg"
@@ -35,7 +35,7 @@
         "name": "Chef Designs Black-Trimmed Cook ShirtBig & Tall",
         "description": "Stylish black-trim cook shirt from Chef Designs is just what you need for a confident, professional presence in the kitchen.  contrasting black stand collar black front buttons left chest pocket short hemmed sleeves squared bottom hem polyester/cotton washable imported of domestic fabric more sizes: regular, big",
         "price": 29.99,
-        "category": 9,
+        "category": 2,
         "rating": 3.0,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81B0C2D9M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "0900631B81B0C2D9M.jpg"
@@ -49,7 +49,7 @@
         "name": "Nike 3-pk. Performance Crew Socks - Boys",
         "description": "Keep him moving in comfort all day with quality Nike crew socks.  arch support reinforced toe and heel cotton/polyester/spandex washable imported",
         "price": 19.99,
-        "category": 1,
+        "category": 5,
         "rating": 4.6,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0510201317010521M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP0510201317010521M.jpg"
@@ -63,7 +63,7 @@
         "name": "Champion Jersey Tee",
         "description": "Compete, exercise or simply relax in comfort with a classic tee from Champion, the brand that's been making quality athletic apparel since 1919.  regular fit crewneck taped neck left chest logo embroidery cotton except oxford and granite heather are cotton/polyester washable imported",
         "price": 20.0,
-        "category": 9,
+        "category": 1,
         "rating": 3.2,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0430201405053680M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP0430201405053680M.jpg"
@@ -77,7 +77,7 @@
         "name": "Stafford 4-pk. Blended Cotton A-Shirts",
         "description": "Stafford Big & Tall ribbed athletic t-shirts deliver the tagless comfort and breathable performance he needs.  super soft, quick-drying, durable fabric preshrunk for lasting fit reinforced durable stitching tag free cotton/polyester washable imported ",
         "price": 26.99,
-        "category": 5,
+        "category": 4,
         "rating": 4.7,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/0900631B81C9387BM.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "0900631B81C9387BM.jpg"
@@ -91,7 +91,7 @@
         "name": "Stafford 4-pk. Heavyweight Crewneck T-ShirtsBig & Tall",
         "description": "Soft and comfortable, two of his favorite things together in this heavyweight cotton tee from Stafford.  combed cotton heavier fabric for durability preshunk for lasting fit premium seaming reduces twisting tag free cotton washable imported",
         "price": 48.99,
-        "category": 5,
+        "category": 1,
         "rating": 4.8,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1029201317111469M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP1029201317111469M.jpg"
@@ -105,7 +105,7 @@
         "name": "Dickies Heavyweight Long-Sleeve Pocket Tee",
         "description": "When your workday calls for a heavyweight tee, grab this long-sleeve one from Dickies and enjoy industrial-strength comfort from the brand you trust.  chest pocket tagless back neck taped neck and shoulder seams cotton washable imported",
         "price": 29.99,
-        "category": 9,
+        "category": 2,
         "rating": 4.8,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0927201317061305M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0927201317061305M.jpg"
@@ -119,7 +119,7 @@
         "name": "Dickies Heavyweight Fleece Full Zip HoodieBig & Tall",
         "description": "This soft fleece jacket is a heavyweight champ that works overtime to keep the chill away.  drawcord closure on hood kangaroo pocket rib-knit cuffs and waistband cotton/polyester washable imported",
         "price": 106.99,
-        "category": 9,
+        "category": 2,
         "rating": 3.0,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1108201317050996M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP1108201317050996M.jpg"
@@ -133,7 +133,7 @@
         "name": "Hanes 3pk. Cotton Crewneck TShirts  Big & Tall",
         "description": "This midweight t-shirt from Hanes features ultra-soft cotton for superior comfort you'll reach for everyday.  all-day comfortable fit longer stay-tucked length tagless midweight ComfortSoft cotton fabric cotton washable imported",
         "price": 53.99,
-        "category": 4,
+        "category": 1,
         "rating": 4.3,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/0900631B818ABCB9M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "0900631B818ABCB9M.jpg"
@@ -147,7 +147,7 @@
         "name": "Nike NA Swoosh Dri-FIT Cotton Tee",
         "description": "Get a tee that fits your active lifestyle, like this moisture-wicking, cotton-rich crewneck with crosshatch swoosh design.  Dri-FIT Cotton moisture management technology helps keep you cool and dry crewneck cotton/polyester washable imported",
         "price": 35.99,
-        "category": 9,
+        "category": 1,
         "rating": 4.8,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1028201517024563M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP1028201517024563M.jpg"
@@ -161,7 +161,7 @@
         "name": "Stafford Year-Round Pleated PantsBig & Tall",
         "description": "Indispensable wrinkle resistant and machine washable pants, with a hidden expandable waistline, offer year-round wear in colors that go with any season.  hidden expandable waistband for ease of movement wrinkle-resistant machine washable big & tall fit with slight fullness in seat and hip; thigh has additional room double-pleated front 4 pockets button closure with hook-and-eye straight leg cuffed polyester/viscose washable imported more sizes in big",
         "price": 93.99,
-        "category": 5,
+        "category": 3,
         "rating": 4.5,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0915201413433903C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0915201413433903C.jpg"
@@ -175,7 +175,7 @@
         "name": "Nike 3-pk. Dri-FIT Fly Rise Crew Socks",
         "description": "With moisture-wicking fabric, durability and shock absorption, these socks go the extra mile so that you can too.  dri-FIT moisture technology wicking keeps feet cool and dry maximum breathability cushioned footbed for comfort arch compression for perfected fit reinforced heel & toe for durability cushioned foot nylon/cotton/polyester/spandex washable imported",
         "price": 23.99,
-        "category": 4,
+        "category": 5,
         "rating": 4.6,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0401201417083996M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP0401201417083996M.jpg"
@@ -189,7 +189,7 @@
         "name": "The Foundry Supply Co. Quick-Dri PoloBig & Tall",
         "description": "Moisture-wicking polo is rich in Pima cotton for a luxuriously soft shirt that keeps you cool and dry.  Quick-Dri moisture-wicking fabric flat knit collar 3-button placket tennis tail with taped side vents cotton/polyester washable imported",
         "price": 60.99,
-        "category": 5,
+        "category": 2,
         "rating": 4.9,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0421201520311379C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0421201520311379C.jpg"
@@ -203,7 +203,7 @@
         "name": "Dockers Long-Sleeve No-Wrinkle Woven Shirt",
         "description": "Achieve effortless everyday style in this no-wrinkle woven shirt from Dockers. no-wrinkle fabric button-down collar left chest pocket with logo embroidery cotton/polyester washable imported",
         "price": 66.99,
-        "category": 9,
+        "category": 4,
         "rating": 4.6,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1202201412542357M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP1202201412542357M.jpg"
@@ -217,7 +217,7 @@
         "name": "Claiborne Short-Sleeve Woven Shirt",
         "description": "This easy-match cotton poplin from Claiborne offers the color and comfort you love in an everyday favorite. point collar button front short sleeves side pleat back slightly rounded hem cotton washable imported",
         "price": 53.99,
-        "category": 3,
+        "category": 4,
         "rating": 3.7,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1220201417020921M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP1220201417020921M.jpg"
@@ -231,7 +231,7 @@
         "name": "adidas Adilogo Shock Energy Tee",
         "description": "Crewneck tee from adidas sends shockwaves through your athletic style with captivating tonal colors on an oversized logo print. crewneck short sleeves polyester/cotton washable imported",
         "price": 26.99,
-        "category": 9,
+        "category": 1,
         "rating": 5.0,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0414201520383920C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0414201520383920C.jpg"
@@ -245,7 +245,7 @@
         "name": "Wrangler Reserve Authentic Relaxed-Fit Jeans-Big & Tall",
         "description": "When comfort and durability are a priority, reach for these premium denim jeans from Wrangler. sits at waist relaxed fit through seat and thigh 5-pocket styling straight leg cotton/spandex washable imported",
         "price": 65.99,
-        "category": 4,
+        "category": 3,
         "rating": 4.4,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0320201517010207M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0320201517010207M.jpg"
@@ -259,7 +259,7 @@
         "name": "Nike Air Sickness Graphic Tee",
         "description": "Sick style is easily achieved with this colorful, Air-themed graphic tee from Nike, the one you want when youre getting ready to launch. non-restrictive crewneck short sleeves chest graphic with Swoosh 100% cotton washable imported",
         "price": 30.99,
-        "category": 3,
+        "category": 1,
         "rating": 4.0,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0515201517013144M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP0515201517013144M.jpg"
@@ -273,7 +273,7 @@
         "name": "Claiborne Long-Sleeve Linen Shirt",
         "description": "Our washable linen shirt from Claiborne brings a breezy perspective to your daily dress in a variety of soft colors. point collar button front long sleeves left chest pocket adjustable button cuffs slightly rounded hem 100% linen washable imported",
         "price": 72.99,
-        "category": 9,
+        "category": 2,
         "rating": 4.5,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0515201517012588M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP0515201517012588M.jpg"
@@ -287,7 +287,7 @@
         "name": "Vanilla Star Embellished Skinny Jeans - Girls 7-16 and Plus",
         "description": "The eye-catching embellishment on the back pocket of these classic skinny jeans takes casual style to the next level. 5-pocket styling zip fly with button closure back pocket embellishments ramie/cotton/polyester/spandex washable imported",
         "price": 50.99,
-        "category": 6,
+        "category": 3,
         "rating": 5.0,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0831201520432399C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0831201520432399C.jpg"
@@ -301,7 +301,7 @@
         "name": "Levi's Houlihan Short-Sleeve Logo Tee",
         "description": "The iconic arcuate logo gets a geo-patterned upgrade on this heathered crewneck tee from Levis. crewneck short sleeves cotton/polyester washable imported ",
         "price": 29.0,
-        "category": 3,
+        "category": 1,
         "rating": 5.0,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0702201517031050M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP0702201517031050M.jpg"
@@ -315,7 +315,7 @@
         "name": "Nike Therma-FIT Pullover Hoodie - Boys 8-20",
         "description": "Add a cozy layer to any game-ready style with this insulated performance hoodie, featuring a pullover design and Therma-FIT fabric for warmth. Therma-FIT microfiber fleece fabric keeps you warm and insulated mesh-lined hood for breathable coverage long sleeves ribbed cuffs and hem kangaroo pocket polyester washable imported",
         "price": 48.99,
-        "category": 1,
+        "category": 2,
         "rating": 4.9,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1008201517035763M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP1008201517035763M.jpg"
@@ -329,7 +329,7 @@
         "name": "Dickies Short-Sleeve Performance Polo",
         "description": "When performance counts, reach for this easy-care piqu polo from Dickies, featuring moisture-wicking technology and protection from the sun. moisture-wicking fabric fade and snag resistant UV protection rib-knit collar tagless neck for comfort 3-button placket side vents polyester washable imported",
         "price": 29.99,
-        "category": 9,
+        "category": 1,
         "rating": 5.0,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0717201517041911M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP0717201517041911M.jpg"
@@ -343,7 +343,7 @@
         "name": "Lugz Empire Hi Mens Water-Resistant Hiking Boots",
         "description": "Offering extra coverage with its high-top design, these water-resistant boots keep you looking good while you accomplish the task at hand. technology Flexa-stride memory foam insole construction synthetic upper rubber sole details lace up padded tongue and collar",
         "price": 108.99,
-        "category": 8,
+        "category": 6,
         "rating": 4.0,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0805201520415923C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0805201520415923C.jpg"
@@ -357,7 +357,7 @@
         "name": "Stafford Travel Brown Check Suit Jacket - Classic Fit",
         "description": "Our brown check suit jacket updates your formal look with a easy-to-match pattern and a resilient fabric that wont get road-weary. crease-resistant and resilient fabric classic fit notch lapel 2-button front slant chest pocket front flap pockets 3 interior pockets (1 with triangle flap) fully lined side vents shell: wool/polyester body and sleeve lining: polyester dry clean only imported",
         "price": 244.99,
-        "category": 3,
+        "category": 4,
         "rating": 4.4,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0721201517041500M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0721201517041500M.jpg"
@@ -371,7 +371,7 @@
         "name": "Arizona Raglan-Sleeve Thermal Pullover",
         "description": "Weather the season in sporty style with this slub thermal pullover, featuring a v-notched crewneck and contrasting raglan sleeves. Available in a variety of jeans-friendly colors. crewneck with v-notch long sleeves tarragon lt grey heather, lt grey heather/oatmeal, charcoal/lt grey heather: cotton/polyester all other colors: 100% cotton washable imported ",
         "price": 33.99,
-        "category": 9,
+        "category": 2,
         "rating": 4.4,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0724201517024000M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0724201517024000M.jpg"
@@ -385,7 +385,7 @@
         "name": "Arizona Flannel Shirt - Preschool Boys 4-7",
         "description": "This comfy flannel shirt is a cool-weather essential that welcomes chilly days with bright colors and fresh style. button front long sleeves 2 chest pockets 100% cotton washable imported",
         "price": 31.99,
-        "category": 9,
+        "category": 2,
         "rating": 3.7,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0731201517024285M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0731201517024285M.jpg"
@@ -399,7 +399,7 @@
         "name": "Stafford Non-Iron Cotton Oxford Dress Shirt - Big & Tall",
         "description": "Enjoy the unparalleled fit and comfort of a classic with this 100% cotton oxford dress shirt from Stafford. non-iron performance fused collar, cuffs and front placket stay crisp and neat right out of the dryer specially sewn seams to lay flat and resist puckering button-down collar reinforced cross-stitched buttons are extremely durable chest pocket adjustable cuffs side gusset long shirttail that stays tucked cotton washable imported",
         "price": 72.99,
-        "category": 9,
+        "category": 4,
         "rating": 5.0,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0828201517024772M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP0828201517024772M.jpg"
@@ -413,7 +413,7 @@
         "name": "Stafford Travel Short-Sleeve Easy-Care Broadcloth Dress Shirt - Big & Tall",
         "description": "This Stafford everyday dress shirt is a wardrobe staple featuring our commitment to quality and wearability. easy care performance specially sewn seams to lay flat and resist puckering point collar reinforced cross-stitched buttons are extremely durable chest pocket cotton/polyester washable imported",
         "price": 55.0,
-        "category": 3,
+        "category": 4,
         "rating": 4.2,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1002201517022007M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP1002201517022007M.jpg"
@@ -427,7 +427,7 @@
         "name": "Jamaica Bay Printed Micro Volley Swim Trunks",
         "description": "From swimming to sand volleyball, enjoy easy movement in these microfiber swim trunks from Jamaica Bay. Available in a variety of bold, tropical prints. elastic waist with drawstring side-seam pockets mesh brief 7\" inseam polyester washable imported",
         "price": 60.99,
-        "category": 4,
+        "category": 5,
         "rating": 3.7,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1014201517031451M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP1014201517031451M.jpg"
@@ -441,7 +441,7 @@
         "name": "Arizona Raglan Henley Tee - Boys 8-20",
         "description": "Contrasting sleeves and a quarter placket lend sporty style to this cotton-rich raglan tee. 3-button placket long sleeves cotton/polyester washable imported",
         "price": 29.99,
-        "category": 3,
+        "category": 1,
         "rating": 5.0,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1021201517031368M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP1021201517031368M.jpg"
@@ -469,7 +469,7 @@
         "name": "Bob Marely 1976 T-Shirt",
         "description": "Get yourself in a Jamaican state of mind with this tee featuring music legend Bob Marley. crewneck polyester/cotton/rayon washable imported",
         "price": 29.99,
-        "category": 9,
+        "category": 1,
         "rating": 1.0,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1022201517023782M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP1022201517023782M.jpg"
@@ -483,7 +483,7 @@
         "name": "Arizona Raglan T-Shirt",
         "description": "Heathered raglan tee from Arizona has a soft look (and even softer feel) that pairs perfectly with denim. crewneck raglan sleeves cotton/polyester washable imported",
         "price": 23.99,
-        "category": 9,
+        "category": 1,
         "rating": 5.0,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1104201517020304M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP1104201517020304M.jpg"
@@ -497,7 +497,7 @@
         "name": "Arizona Pocket T-Shirt",
         "description": "Arizona makes casual comfort easy with this pocket tee that has you looking good. crewneck chest pocket cotton/polyester washable imported ",
         "price": 24.99,
-        "category": 9,
+        "category": 1,
         "rating": 5.0,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP1106201517012318M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP1106201517012318M.jpg"
@@ -511,7 +511,7 @@
         "name": "Vans Zone Bluts Short-Sleeve T-Shirt",
         "description": "Classic style and modern day comfort collide with this fun tee from Vans. crewneck 100% cotton washable imported",
         "price": 26.99,
-        "category": 9,
+        "category": 1,
         "rating": 5.0,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP1124201517014225M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP1124201517014225M.jpg"
@@ -525,7 +525,7 @@
         "name": "Levi's 527 Bootcut Jeans - Boys 8-20, Slim and Husky",
         "description": "A favorite for easy wear, Levi's 527 bootcut jeans are loose for a comfortable fit through the seat and thigh. They sit low on the waist and tilt higher in back.  5-pocket sits below waist leg opening approx. 17\" bootcut fit cotton washable imported",
         "price": 48.99,
-        "category": 6,
+        "category": 3,
         "rating": 5.0,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0726201317024762M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0726201317024762M.jpg"
@@ -539,7 +539,7 @@
         "name": "Island Shores Short-Sleeve Printed Camp Shirt",
         "description": "Grab our easygoing camp shirt for a casual look you can wear all day and night. point collar button down front pocket short sleeves rayon washable imported",
         "price": 53.99,
-        "category": 4,
+        "category": 1,
         "rating": 4.3,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0218201621532296C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0218201621532296C.jpg"
@@ -553,7 +553,7 @@
         "name": "Carter's Short-Sleeve Shark Tee - Preschool Boys 4-7",
         "description": "Featuring a fun little screen-printed shark, this short-sleeve tee by Carter's is perfect for your little one's wardrobe. ribbed neckline cotton/polyester washable imported",
         "price": 19.99,
-        "category": 9,
+        "category": 1,
         "rating": 4.0,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0217201617074443M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP0217201617074443M.jpg"
@@ -567,7 +567,7 @@
         "name": "Dockers Signature Classic-Fit Flat-Front Pants",
         "description": "Dockers Signature Khaki flat-front pants are a classic step in the right direction.  no wrinkles color retention technology flat front with comfort waist zip fly with button closure double-welt, button-through back pockets wing & anchor logo embroidery permanent crease cotton washable imported ",
         "price": 70.0,
-        "category": 5,
+        "category": 3,
         "rating": 4.0,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0226201620313565C.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0226201620313565C.jpg"
@@ -581,7 +581,7 @@
         "name": "Graham & Co. Dress Shirt, Tie and Pre-Tied Bow Tie",
         "description": "Grab our dress shirt and one of the matching tie options for an on-the-go outfit that will look great. includes shirt, tie and pre-tied bow tie modern fit spread collar long sleeves 2\" wide cotton/polyeste ties: polyester washable imported",
         "price": 78.99,
-        "category": 9,
+        "category": 4,
         "rating": 5.0,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0224201617043146M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0224201617043146M.jpg"
@@ -595,7 +595,7 @@
         "name": "Arizona Flex Skinny Jeans",
         "description": "These jeans are a sleek alternative to the classic fit with a skinny profile that keeps you on the cutting edge. A bit of spandex in the mix ensures that you move in comfort. sits low on waist extra-slim fit through seat and thigh zip fly with button closure 5-pocket styling skinny leg cotton/spandex washable imported",
         "price": 53.99,
-        "category": 6,
+        "category": 3,
         "rating": 1.0,
         "image_url": "http://s7d9.scene7.com/is/image/JCPenney/DP0722201517022951M.tif?hei=380&amp;wid=380&op_usm=.4,.8,0,0&resmode=sharp2&op_usm=1.5,.8,0,0&resmode=sharp",
         "image": "DP0722201517022951M.jpg"
@@ -609,7 +609,7 @@
         "name": "Steve Harvey Linen Blend Vest - Big & Tall",
         "description": "Feel great and look sharp in our linen-blend vest with paisley trim. white taping and paisley trim embroidery 5-button front linen/rayon hand wash, line dry imported",
         "price": 94.99,
-        "category": 8,
+        "category": 1,
         "rating": 3.0,
         "image_url": "http://s7d2.scene7.com/is/image/JCPenney/DP0226201617023618M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
         "image": "DP0226201617023618M.jpg"
