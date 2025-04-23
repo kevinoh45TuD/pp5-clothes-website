@@ -1,0 +1,7 @@
+[
+    {"pk": 1, "model": "products.category", "fields": {"name": "tshirts", "friendly_name": "T-Shirts"}}, 
+    {"pk": 2, "model": "products.category", "fields": {"name": "shirts", "friendly_name": "Shirts"}}, 
+    {"pk": 3, "model": "products.category", "fields": {"name": "pants", "friendly_name": "Pants"}}, 
+    {"pk": 4, "model": "products.category", "fields": {"name": "formalwear", "friendly_name": "Formal-Wear"}}, 
+    {"pk": 5, "model": "products.category", "fields": {"name": "underwear", "friendly_name": "Under-Wear"}}, 
+    {"pk": 6, "model": "products.category", "fields": {"name": "shoes", "friendly_name": "Shoes"}}]
